@@ -19,3 +19,8 @@ git clone https://github.com/edosyhptra/container-assignment.git
    cnth:  & "C:\Users\clari\AppData\Local\pypoetry\Cache\virtualenvs\demo-VLs62pmx-py3.12\Scripts\Activate.ps1"
 >> python manage.py runserver
 >> open http://127.0.0.1:8000/
+
+--- PHP
+>> cd php
+>> docker compose -f docker-compose.yml up --build -d
+>> open http://localhost:8000
