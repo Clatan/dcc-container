@@ -1,6 +1,6 @@
 Docker Challenge (Multi-staged Docker Build)
+> git clone https://github.com/edosyhptra/container-assignment.git
 
-git clone https://github.com/edosyhptra/container-assignment.git
 --- C++ ---
 1. cd cpp
 2. docker build -t container-cpp .
